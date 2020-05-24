@@ -1,6 +1,6 @@
 # DEV Links
 
-Developer links on different topics - useful, interesting, fun
+Development links on different topics - useful, interesting, fun
 
 ## HCL Notes and Domino
 
@@ -10,6 +10,7 @@ Developer links on different topics - useful, interesting, fun
 
 - [React](https://reactjs.org/)
 - [Airbnb React Style Guide](https://github.com/airbnb/javascript/blob/master/react)
+- [Learn React & Material UI](https://www.youtube.com/watch?v=xm4LX5fJKZ8)
 
 
 ## Javascript
@@ -28,6 +29,10 @@ Developer links on different topics - useful, interesting, fun
 
 - [MDN HTML Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [W3School Documentation](https://www.w3schools.com/html/default.asp)
+
+## iOS
+
+- [Apple Developer](https://developer.apple.com)
 
 ## Tools
 
