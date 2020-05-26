@@ -16,6 +16,7 @@ Development links on different topics - useful, interesting, fun
 ## Javascript
 
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+- [Service Workers: an Introduction](https://developers.google.com/web/fundamentals/primers/service-workers/)
 - [CodeSandbox.io](http://codesandbox.io/)
 - [CodePen](https://codepen.io/)
 
