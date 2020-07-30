@@ -11,6 +11,7 @@ Development links on different topics - useful, interesting, fun
 - [React](https://reactjs.org/)
 - [Airbnb React Style Guide](https://github.com/airbnb/javascript/blob/master/react)
 - [Learn React & Material UI](https://www.youtube.com/watch?v=xm4LX5fJKZ8)
+- [React Best Practices](https://reactresources.com/topics/best-practices)
 
 
 ## Javascript
